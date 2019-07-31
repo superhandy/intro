@@ -203,7 +203,19 @@ Commands about registers:
 
 ### Level 7 Modal
 
-Using `Alt+Enter` you should
+Using `Alt+Enter` you can lock the `Alt` key prefix for all other
+levels, so the first `Alt` is not necessary to be pressed. Pressing
+`Alt+Enter` disable the lock and you are back to the normal editing
+mode (where `Alt` modifier is required to execute the regular commands
+in all other levels).
+
+* The bad thing about this is that you cannot write text on this mode
+  (e.g. pressing `L` key means `Alt+L` instead of writting the key `L`).
+* The god side is that you can move easily in the file without
+  pressing the `Alt` modifier all the time.
+
+The idea of `Alt+Enter` is that depending on what you need to do you
+can lock the `Alt` key (for navigation) or unlocked (for editing).
 
 ## Text Editors
 
