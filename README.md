@@ -47,13 +47,13 @@ the new shortcuts.
 
 This is the progressive set of levels that you will learn:
 
-* [Level 1 JLIK](level-0-jlik) (*Jay's [Lick](https://en.wikipedia.org/wiki/Lick_(music))*-level): Move through characters and lines with `Alt+J`/`Alt+L`/`Alt+I`/`Alt+K`
-* [Level 2 NM](level-1-nm) ([*Nanometre*](https://en.wikipedia.org/wiki/Nanometre)-level): Execute commands and cancel execution with `Alt+N`/`Alt+M`
-* [Level 3 UO](level2-uo) ([*Unobtainium*](https://en.wikipedia.org/wiki/Unobtainium)-level): Move through words/paragraphs/functions with `Alt+U`/`Alt+O`
-* [Level 4 ZB](level4-zb) ([*Zettabyte*](https://en.wikipedia.org/wiki/Zettabyte)-level): Undo/Cut/Copy/Paste and Buffers with `Alt+Z`/`Alt+X`/`Alt+C`/`Alt+V`/`Alt+B`
-* [Level 5 YH](level-4-yh) ([*Yeah*](https://www.youtube.com/watch?v=GxBSyx85Kp8)-level): Incremental Search and End/Beginning-of-Line/Buffer Movement with `Alt+Y`/ `Alt+H`
-* [Level 6 WERD](level-5-werd) ([*WERD*](https://youtu.be/Di9R9oA5Qzk?t=162)-level): Erase stuff with `Alt+W`/`Alt+E`/`Alt+R`/`Alt+D`/`Alt+F`/`Alt+G`
-* [Level 7 Modal](level-6-modal) (*Modal*-level): Switch modes with `Alt+Enter`
+* [Level 1 JLIK](#level-1-jlik) (*Jay's [Lick](https://en.wikipedia.org/wiki/Lick_(music))*-level): Move through characters and lines with `Alt+J`/`Alt+L`/`Alt+I`/`Alt+K`
+* [Level 2 NM](#level-2-nm) ([*Nanometre*](https://en.wikipedia.org/wiki/Nanometre)-level): Execute commands and cancel execution with `Alt+N`/`Alt+M`
+* [Level 3 UO](#level-3-uo) ([*Unobtainium*](https://en.wikipedia.org/wiki/Unobtainium)-level): Move through words/paragraphs/functions with `Alt+U`/`Alt+O`
+* [Level 4 ZB](#level-4-zb) ([*Zettabyte*](https://en.wikipedia.org/wiki/Zettabyte)-level): Undo/Cut/Copy/Paste and Buffers with `Alt+Z`/`Alt+X`/`Alt+C`/`Alt+V`/`Alt+B`
+* [Level 5 YH](#level-5-yh) ([*Yeah*](https://www.youtube.com/watch?v=GxBSyx85Kp8)-level): Incremental Search and End/Beginning-of-Line/Buffer Movement with `Alt+Y`/ `Alt+H`
+* [Level 6 WERD](#level-6-werd) ([*WERD*](https://youtu.be/Di9R9oA5Qzk?t=162)-level): Erase stuff with `Alt+W`/`Alt+E`/`Alt+R`/`Alt+D`/`Alt+F`/`Alt+G`
+* [Level 7 Modal](#level-7-modal) (*Modal*-level): Switch modes with `Alt+Enter`
 
 ### Level 1 JLIK
 
