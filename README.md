@@ -2,7 +2,7 @@
 
 > by David Capello
 
-## What's handy?
+## What is handy?
 
 `handy` (or `handy-mode`) is a set of keyboard shortcuts that you
 could use in (almost) any text editor. The idea is to offer a
