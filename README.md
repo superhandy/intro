@@ -81,6 +81,17 @@ With the `Shift` modifier, steps get a little wider:
 * `Alt+Shift+I`: Moves the cursor one page up (e.g. Page Up, `cua-scroll-down` on Emacs)
 * `Alt+Shift+K`: Moves the cursor one page down (e.g. Page Down, `cua-scroll-up` on Emacs)
 
+What is a *balanced expression*? It can be anything that is balanced
+in the actual programming language. For example, on mathematical
+expression, it should jump between `(...)`
+
+    x=((a+2)*y - (5*z))
+       ^---^     ^---^
+      ^---------------^
+
+On programming languages it should jump between strings limits `"..."`
+or scopes `{...}`.
+
 ### Level 2 NM
 
                 .-----.
