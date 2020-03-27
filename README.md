@@ -53,7 +53,7 @@ This is the progressive set of levels that you will learn:
 * [Level 4 ZB](#level-4-zb) ([*Zettabyte*](https://en.wikipedia.org/wiki/Zettabyte)-level): Undo/Cut/Copy/Paste and Buffers with `Alt+Z`/`Alt+X`/`Alt+C`/`Alt+V`/`Alt+B`
 * [Level 5 YH](#level-5-yh) ([*Yeah*](https://www.youtube.com/watch?v=GxBSyx85Kp8)-level): Incremental Search and End/Beginning-of-Line/Buffer Movement with `Alt+Y`/ `Alt+H`
 * [Level 6 WERD](#level-6-werd) ([*WERD*](https://youtu.be/Di9R9oA5Qzk?t=162)-level): Erase stuff with `Alt+W`/`Alt+E`/`Alt+R`/`Alt+D`/`Alt+F`/`Alt+G`
-* [Level 7 Modal](#level-7-modal) (*Modal*-level): Switch modes with `Alt+Enter`
+* [Level 7 Modal](#level-7-modal) (*Modal*-level): Switch modes with `Alt+P`
 
 ### Level 1 JLIK
 
@@ -215,13 +215,13 @@ Commands about registers:
 
 ### Level 7 Modal
 
-In this mode you have just one new keyboard shortcut available: `Alt+Enter`
+In this mode you have just one new keyboard shortcut available: `Alt+P`
 
-Pressing `Alt+Enter` you lock the `Alt` key prefix for all other
-levels, so the first `Alt` is not necessary to be pressed. Pressing
-`Alt+Enter` again you disable the lock and you're back to the normal
-editing mode (where `Alt` modifier is required to execute the regular
-commands in all other levels).
+Pressing `Alt+P` you lock the `Alt` key prefix for all other levels,
+so the first `Alt` is not necessary to be pressed. Pressing `Alt+P`
+again you disable the lock and you're back to the normal editing mode
+(where `Alt` modifier is required to execute the regular commands in
+all other levels).
 
 * The bad thing about this is that you cannot write text when
   `Alt` is locked (e.g. pressing `L` key means `Alt+L` instead of
@@ -229,8 +229,8 @@ commands in all other levels).
 * The good side is that you can move easily in the file without
   pressing the `Alt` modifier all the time.
 
-The idea of `Alt+Enter` is that depending on what you need to do you
-can lock the `Alt` key (for navigation) or unlock it (for editing).
+The idea of `Alt+P` is that depending on what you need to do you can
+lock the `Alt` key (for navigation) or unlock it (for editing).
 
 ## Text Editors
 
