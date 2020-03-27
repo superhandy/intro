@@ -85,12 +85,13 @@ What is a *balanced expression*? It can be anything that is balanced
 in the actual programming language. For example, on mathematical
 expression, it should jump between `(...)`
 
-    x=((a+2)*y - (5*z))
-       ^---^     ^---^
-      ^---------------^
+    x= ( (a+2)  * y -  (5*z) )
+        ^-----^       ^-----^
+      ^----------------------^
 
-On programming languages it should jump between strings limits `"..."`
-or scopes `{...}`.
+On programming languages it should jump between balanced strings
+limits `"..."`, scopes `{...}`, array indexer `[...]`, etc. When none
+of these characters are found, it should move just through words.
 
 ### Level 2 NM
 
