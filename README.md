@@ -72,17 +72,17 @@ This set of keys simulate the arrow keys of any keyboard but they are
 located in the home row mainly (JKL) so you don't have to move your
 hand to move the cursor:
 
-* `Alt+J`: Moves the cursor one character backward (e.g. Left Arrow, `backward-char` on Emacs)
-* `Alt+L`: Moves the cursor one character forward (e.g. Right Arrow, `forward-char` on Emacs)
-* `Alt+I`: Moves the cursor to the previous line (e.g. Up Arrow, `previous-line` on Emacs)
-* `Alt+K`: Moves the cursor to the next line (e.g. Down Arrow, `next-line` on Emacs)
+* `Alt+J`: Moves the cursor one character backward (e.g. Left Arrow, `cursorLeft` on VS Code, `backward-char` on Emacs)
+* `Alt+L`: Moves the cursor one character forward (e.g. Right Arrow, `cursorRight` on VS Code, `forward-char` on Emacs)
+* `Alt+I`: Moves the cursor to the previous line (e.g. Up Arrow, `cursorUp` on VS Code, `previous-line` on Emacs)
+* `Alt+K`: Moves the cursor to the next line (e.g. Down Arrow, `cursorDown` on VS Code, `next-line` on Emacs)
 
 With the `Shift` modifier, steps get a little wider:
 
 * `Alt+Shift+J`: Moves the cursor one balanced expression backward (e.g. `backward-sexp` on Emacs)
 * `Alt+Shift+L`: Moves the cursor one balanced expression forward (e.g. `forward-sexp` on Emacs)
-* `Alt+Shift+I`: Moves the cursor one page up (e.g. Page Up, `cua-scroll-down` on Emacs)
-* `Alt+Shift+K`: Moves the cursor one page down (e.g. Page Down, `cua-scroll-up` on Emacs)
+* `Alt+Shift+I`: Moves the cursor one page up (e.g. Page Up, `cursorPageUp` on VS Code, `cua-scroll-down` on Emacs)
+* `Alt+Shift+K`: Moves the cursor one page down (e.g. Page Down, `cursorPageDown` on VS Code, `cua-scroll-up` on Emacs)
 
 What is a *balanced expression*? It can be anything that is balanced
 in the actual programming language. For example, on mathematical
@@ -109,17 +109,17 @@ of these characters are found, it should move just through words.
 The second `handy` level enables the prefix key to open an huge range
 of commands, and to cancel actions/commands:
 
-* `Alt+M, ...`: Prefix key for other keys shortcuts (like `Ctrl+K` on VSCode, or `Ctrl+C` on Emacs)
-* `Alt+Shift+M`: Execute command by name (e.g. `Ctrl+P` on VSCode, or `execute-extended-command` on Emacs)
+* `Alt+M, ...`: Prefix key for other keys shortcuts (like `Ctrl+K` on VS Code, or `Ctrl+C` on Emacs)
+* `Alt+Shift+M`: Execute command by name (e.g. `Ctrl+Shift+P` on VS Code, or `execute-extended-command` on Emacs)
 * `Alt+N`: Cancels the execution of a command or prefix keys (e.g. `Esc` key, or `Ctrl+G` on Emacs)
 * `Alt+Shift+N`: Creates a new untitled file (e.g. like `Ctrl+N` command in regular desktop apps)
 
 List of `Alt+M, ...` commands:
 
-* `Alt+M, F`: Open a file (e.g. `Ctrl+O` on VSCode, or `find-file` on Emacs)
+* `Alt+M, F`: Open a file (e.g. `Ctrl+O` on VS Code, or `find-file` on Emacs)
 * `Alt+M, D`: Open a folder/directory (e.g. `ido-dired` on Emacs)
 * `Alt+M, S`: Save the file (e.g. `Ctrl+S` on regular desktop apps, or `save-buffer` on Emacs)
-* `Alt+M, G`: Jump to a specific line number (e.g. `Ctrl+G` on VSCode, or `goto-line` on Emacs)
+* `Alt+M, G`: Jump to a specific line number (e.g. `Ctrl+G` on VS Code, or `goto-line` on Emacs)
 
 Commands about macros:
 
