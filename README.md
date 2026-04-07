@@ -4,10 +4,10 @@
 
 ## What is handy?
 
-`handy` (or `handy-mode`) is a set of keyboard shortcuts that you
-could use in any text editor. The idea is to offer a progressive way
-to convert your current keyboard shortcuts to a more easy to use set
-of shortcuts.
+`handy` (or [handy-mode](https://github.com/superhandy/handy-mode))
+is a set of keyboard shortcuts that you could use in any text
+editor. The idea is to offer a progressive way to convert your current
+keyboard shortcuts to a more easy to use set of shortcuts.
 
 `handy` offers:
 
@@ -20,7 +20,7 @@ It's focused on Emacs, but you could configure other text editors and
 shells:
 
 * [VS Code](https://github.com/superhandy/handy-vscode)
-* [Emacs](https://github.com/superhandy/inputrc)
+* [Emacs](https://github.com/superhandy/handy-mode)
 * [bash/readline](https://github.com/superhandy/inputrc)
 * [zsh](https://github.com/superhandy/zshrc)
 
